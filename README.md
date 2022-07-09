@@ -1,3 +1,3 @@
-# Repositório do Projecto de Desafio Git/GitHub
+# Desaafio de Projeto Git/GitHub
 
-Desafio de Projeto: Primeiro Repositório
+Primeiro Repositório
